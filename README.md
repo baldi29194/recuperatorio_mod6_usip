@@ -1,4 +1,4 @@
-# proy_recup_m6
+# Recuperatorio_m6_usip
 
 ## Project setup
 ```
